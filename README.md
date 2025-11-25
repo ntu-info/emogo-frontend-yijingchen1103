@@ -26,3 +26,8 @@ This is a very small Expo project using **expo-router** with:
    ```
 
 3. Open the app on a device or emulator using the Expo dev tools.
+
+## Homework
+- My app URL: https://expo.dev/accounts/yjchen/projects/expo-router-mwe/builds/a64faf67-dfe5-48c3-b09c-239b3adc97ff
+
+- Human-AI interaction history: 
