@@ -4,23 +4,13 @@
     "plugins": [
       "expo-router"
     ],
-    "name": "expo-router-mwe",
-    "slug": "expo-router-mwe",
+    "name": "emogo-clean",
+    "slug": "emogo-clean",
     "android": {
-      "package": "com.spiketren.exporoutermwe"
+      "package": "com.yourname.emogoclean"
     },
     "extra": {
-      "router": {},
-      "eas": {
-        "projectId": "7918e76f-59e9-45c4-aae4-c99cec64cfac"
-      }
-    },
-    "owner": "spiketren",
-    "ios": {
-      "bundleIdentifier": "com.spiketren.exporoutermwe",
-      "infoPlist": {
-        "ITSAppUsesNonExemptEncryption": false
-      }
+      "router": {}
     }
   }
 }

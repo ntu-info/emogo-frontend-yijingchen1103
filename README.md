@@ -31,3 +31,6 @@ This is a very small Expo project using **expo-router** with:
 - My app URL: https://expo.dev/accounts/yjchen/projects/expo-router-mwe/builds/a64faf67-dfe5-48c3-b09c-239b3adc97ff
 
 - Human-AI interaction history: 
+   1. Claude: https://claude.ai/share/ccccdb2c-48dc-4eff-bf75-009bedf9a7b1
+   2. Gemini: https://gemini.google.com/app/bebfbff9f2a9a95e
+   3. chatGPT-5
